@@ -1,6 +1,14 @@
+<br />
+
+<div align="center">
+<a href="https://react-hot-toast.com/"><img alt="react-hot-toast - Try it out" src="https://github.com/sanket9006/react-syncfusion-npm-package/blob/main/assets/Beige%20%26%20White%20Food%20Culinary%20Promotion%20Facebook%20Post.png"/></a>
+
+</div>
+
 <div align="center">
   <sub>Cooked by <a href="https://patilsanket.in/">Sanket Patil</a> 👨‍🍳</sub>
 </div>
+<br />
 
 # Getting Started with Create React App + Syncfusion
 To install react-syncfusion, use the following command.
